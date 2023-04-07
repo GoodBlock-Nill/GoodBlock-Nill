@@ -89,10 +89,10 @@
   <table align="center">
     <tr>
       <td valign="top">
-      <img src ="https://github-readme-stats.vercel.app/api?username=nillyoo&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=B7E703&icon_color=B7E703&locale=kr">
+      <img src ="https://github-readme-stats.vercel.app/api?username=GoodBlock-Nill&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&title_color=B7E703&icon_color=B7E703&locale=kr">
       </td>
       <td valign="top">
-      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nillyoo&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=B7E703&langs_count=8">
+      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodBlock-Nill&layout=compact&hide_border=true&theme=merko&bg_color=00000000&title_color=B7E703&langs_count=8">
       </td>
     </tr>
   </table>
@@ -104,6 +104,6 @@
 <div align="center">
   <h3>Visitor count</h3>
 
-  ![Visitor Count](https://profile-counter.glitch.me/nillyoo/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/GoodBlock-Nill/count.svg)
 
 </div>
